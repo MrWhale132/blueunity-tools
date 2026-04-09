@@ -1,0 +1,19 @@
+{
+    "name": "Theblueway.Tools.Editor",
+    "rootNamespace": "Theblueway.Tools.Editor",
+    "references": [
+        "GUID:11f9f0384cd82b14ea5d004a22a3f210",
+        "GUID:83d2263415fd7224394061099a98dd39"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,5 +1,5 @@
 {
-    "name": "com.theblueway.tools",
+    "name": "com.blueutils.tools",
     "version": "1.0.0",
     "displayName": "Blue Tools",
     "dependencies": {
