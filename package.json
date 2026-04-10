@@ -3,6 +3,6 @@
     "version": "1.0.0",
     "displayName": "Blue Tools",
     "dependencies": {
-        "com.blueutils.core": "1.1.0"
+        "com.theblueway.core": "1.1.0"
     }
 }
